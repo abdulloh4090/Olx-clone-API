@@ -4,8 +4,8 @@ Bu foydalanuvchi va tizim o‘rtasidagi interfeys. API endpointlar shu yerda.
 
 🔸 Nima joylashadi:
 Controllers/ — API endpointlar
-
-  DTOs/ — CreateDto, UpdateDto, ResponseDto
+<br>
+  DTOs/ — CreateDto, UpdateDto, ResponseDto<br>
   Program.cs, Startup.cs — DI, middleware
   Mappers/ — AutoMapper profillari
   Filters/ — Global exception handling, validation filters

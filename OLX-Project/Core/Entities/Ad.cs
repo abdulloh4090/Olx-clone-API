@@ -19,5 +19,5 @@ public class Ad
     public int SubCategoryId { get; set; }
     public SubCategory SubCategory { get; set; }
     
-    public ICollection<Image> Images { get; set; }>
+    public ICollection<Image> Images { get; set; }
 }

@@ -11,7 +11,6 @@ Controllers/ — API endpointlar
   Filters/ — Global exception handling, validation filters
   SwaggerConfig/ — Swagger setup (istalgancha sozlash)
 
-}
 📁 2. MyProject.Application (Business Logic Layer)
 
 Bu qatlamda butun biznes qoidalari bo‘ladi.

@@ -10,7 +10,7 @@ public class AppDBContext : DbContext
     }
     
     public DbSet<User> Users { get; set; }
-    public DbSet<Ad>  Ads { get; set; }
+    public DbSet<Advertisement>  Ads { get; set; }
     public DbSet<Category> Categories { get; set; }
     public DbSet<SubCategory> SubCategories { get; set; }
     public DbSet<Region> Regions { get; set; }

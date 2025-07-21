@@ -8,5 +8,5 @@ public class SubCategory
     public int CategoryId { get; set; }
     public Category Category { get; set; }
     
-    public ICollection<Ad> Ads { get; set; }
+    public ICollection<Advertisement> Ads { get; set; }
 }

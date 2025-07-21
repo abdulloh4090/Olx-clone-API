@@ -8,5 +8,5 @@ public class SubRegion
     public int RegionId { get; set; }
     public Region Region { get; set; }
     
-    public ICollection<Ad> Ads { get; set; }
+    public ICollection<Advertisement> Ads { get; set; }
 }

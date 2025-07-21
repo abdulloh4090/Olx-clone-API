@@ -1,6 +1,6 @@
 ﻿namespace OLX_Project.Core.Entities;
 
-public class Ad
+public class Advertisement
 {
     public int Id { get; set; } 
     public string Title { get; set; }

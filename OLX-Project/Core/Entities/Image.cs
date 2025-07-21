@@ -6,5 +6,5 @@ public class Image
     public string ImageUrl { get; set; }
     
     public int AdId { get; set; }
-    public Ad Ad { get; set; }
+    public Advertisement Advertisement { get; set; }
 }
